@@ -1,4 +1,7 @@
 ﻿# How to connect To your mongo database inside a Vagrant Virtual Machine from The Windows Host
+<img src="https://cdn.worldvectorlogo.com/logos/vagrant.svg" width="128"/> | <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="128"/>
+
+
 ## 1. Preparation
 First of all, you need to navigate to your vagrant vbox folder and activate your vagrant virtual machine by running **vagrant up**. 
 Use **vagrant ssh** to access to the shell of the VM.
