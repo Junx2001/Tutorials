@@ -35,7 +35,7 @@ Add those lines in it to create the alias **oracle-21c-vagrant**
 	    UserKnownHostsFile /dev/null
 	    StrictHostKeyChecking no
 	    PasswordAuthentication no
-		IdentityFile C:/Users/ratsi/.vagrant.d/boxes/package.box/0/virtualbox/vagrant_private_key
+		IdentityFile Your-username/.vagrant.d/boxes/package.box/0/virtualbox/vagrant_private_key
 		IdentitiesOnly yes
 		LogLevel FATAL
 		PubkeyAcceptedKeyTypes +ssh-rsa
